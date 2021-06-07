@@ -9,7 +9,7 @@
 - Chart.js
 
 ### Keterangan <br/>
-Database : <code>ci_barang</code><br/>
+Database : <code>ci_jadi</code><br/>
 <br/>
 "# ERP_INVENTORY_Manufacture" 
 
@@ -17,7 +17,7 @@ banda
 pass:admin admin
 
 rencana pembuatan:
--habis pakai produksi
+- habis pakai produksi
 >data inventaris alat produksi dan maintenens
 >data bahan produksi (bungkus plastik, bahan,kardus)
 
@@ -25,7 +25,7 @@ rencana pembuatan:
 >data pegawai gaji
 >data pengeluaran listrik, alat kantor, bensin
 
--data pendapatan
+- data pendapatan
 >data inventaris stok produksi
 >data barang keluar (data permintaan/pemesanan) order
 
